@@ -1,0 +1,1 @@
+.env - file contains credentials used in code. Add .env to .gitignore, this ensures that .env will not be committed to the repo.
