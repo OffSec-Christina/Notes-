@@ -1,1 +1,5 @@
-.env - file contains credentials used in code. Add .env to .gitignore, this ensures that .env will not be committed to the repo.
+.env - file can be used to store credentials used in code in the format KEY=VALUE
+Add .env to .gitignore, this ensures that .env will not be committed to the repo.
+
+###Saving Files
+Files must be changed after modifications because the modifications that were made on RAM, and will not be saved unless auto-save is selected or it is saved. 
